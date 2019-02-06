@@ -1,0 +1,17 @@
+README.md
+setup.py
+bin/dudu
+dudu/__init__.py
+dudu/config.py
+dudu/configure_module.py
+dudu/dudu_aws.py
+dudu/listinstances_module.py
+dudu/listvpcs_module.py
+dudu/runinstances_module.py
+dudu/ssh_module.py
+dudu/terminate_module.py
+dudu.egg-info/PKG-INFO
+dudu.egg-info/SOURCES.txt
+dudu.egg-info/dependency_links.txt
+dudu.egg-info/requires.txt
+dudu.egg-info/top_level.txt

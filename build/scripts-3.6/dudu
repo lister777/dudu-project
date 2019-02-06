@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+
+import sys
+import dudu.dudu_aws
+
+def main():
+    return dudu_aws.main()
