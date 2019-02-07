@@ -19,5 +19,8 @@ setup(
         "Operating System :: OS Independent",
     ],
     install_requires=['boto3'],
-    scripts=['bin/dudu'],
+    #scripts=['bin/dudu'],
+    entry_points = {
+        'console_scripts': ['dudu=dudu.dudu_aws:main'],
+    }
 )

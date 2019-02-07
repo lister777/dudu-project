@@ -1,6 +1,0 @@
-#!/usr/bin/env python
-
-import dudu.dudu_aws
-
-def main():
-    return dudu_aws.main()
