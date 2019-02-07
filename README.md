@@ -10,6 +10,6 @@ python3 setup.py install --user
 
 dudu> listinstances
 
-dudu> listinstances
+dudu> listvpcs
 
 dudu> ssh
