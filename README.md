@@ -9,5 +9,7 @@ python3 setup.py install --user
 # Command
 
 dudu> listinstances
+
 dudu> listinstances
+
 dudu> ssh
