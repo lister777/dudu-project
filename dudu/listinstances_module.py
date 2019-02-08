@@ -13,7 +13,7 @@ def list_instances(inp_options={}):
         else:
             session = boto3.session.Session(region_name=region)
             
-            ec2 = session.resource('ec2')
+        ec2 = session.resource('ec2')
             
         def check_tag(tags):
             if tags:
